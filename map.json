@@ -302,6 +302,22 @@
          "id":85,
          "name":"Buehne1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"folk_rock_stage"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/kallertpa.github.io\/janasparty\/music_folk.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":34,
